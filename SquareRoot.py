@@ -48,7 +48,7 @@ def binarySearch(goal):
 presentation = "Welcome to the program to take out the square root of a whole number :)  \n"
 print(presentation.center(10,"-"))
 
-goal = int(input("Enter the whole number you want to find the square root to: "))
+goal = int(input("Please enter the number of which you wish to calculate the square root: "))
 
 print("""Which option do you prefer?"
             [1]. Exhaustive Enumeration
